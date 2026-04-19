@@ -1,3 +1,4 @@
+
 const form = document.getElementById('search-form');
 const input = document.getElementById('search-input');
 const wordEl = document.getElementById('word');
